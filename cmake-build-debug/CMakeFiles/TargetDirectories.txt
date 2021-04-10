@@ -1,0 +1,3 @@
+/home/jasmine/Documents/UE4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jasmine/Documents/UE4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jasmine/Documents/UE4/cmake-build-debug/CMakeFiles/UE4.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/UE4.dir/TripleX.cpp.o -o UE4 
